@@ -1,0 +1,8 @@
+Família:
+Contato{nome='Guiherme', idade=19, sexo='Masculino', profissao='Programador', telefone n.='349912288702', email:'gilherme@1}
+Contato{nome='Felipe', idade=87, sexo='Masculino', profissao='Programador', telefone n.='349912288702', email:'gilherme@1}
+Contato{nome='Anderson', idade=19, sexo='Masculino', profissao='Programador', telefone n.='349912288702', email:'gilherme@1}
+
+Amigos:
+
+Profissional:
